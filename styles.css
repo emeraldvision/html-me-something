@@ -13,6 +13,11 @@ nav {
     padding-bottom: 200px;
 }
 
+#yes-please {
+    color: #da22ff;
+    background-color: black;
+}
+
 .title {
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-size: 32px;
