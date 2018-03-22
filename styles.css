@@ -1,12 +1,35 @@
-/* 1. use margin http://www.w3schools.com/css/css_margin.asp
- * 2. use padding http://www.w3schools.com/css/css_padding.asp
- * 3. use at least one element http://www.w3schools.com/cssref/sel_element.asp
- *class http://www.w3schools.com/cssref/sel_class.asp
- *or id http://www.w3schools.com/cssref/sel_id.asp
- * 4. avoid HTML elements
- * 5. link stylesheet to main document
- */
- p {
-     font-family: sans-serif;
-     color: red;
- }
+body {
+     margin: 5px;
+     padding: 0;
+     text-align: left;
+     max-width: 550px;
+}
+
+article {
+    padding-bottom: 150px;
+}
+
+nav {
+    padding-bottom: 200px;
+}
+
+.title {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 32px;
+    color : #222222;
+}
+
+.author {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 18px;
+    margin-left: 20px;
+    color : #454545;
+}
+
+img {
+    max-width: 500px;
+}
+
+figcaption {
+    font-size: 12px;
+}
