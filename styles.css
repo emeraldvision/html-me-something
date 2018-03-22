@@ -1,0 +1,12 @@
+/* 1. use margin http://www.w3schools.com/css/css_margin.asp
+ * 2. use padding http://www.w3schools.com/css/css_padding.asp
+ * 3. use at least one element http://www.w3schools.com/cssref/sel_element.asp
+ *class http://www.w3schools.com/cssref/sel_class.asp
+ *or id http://www.w3schools.com/cssref/sel_id.asp
+ * 4. avoid HTML elements
+ * 5. link stylesheet to main document
+ */
+ p {
+     font-family: sans-serif;
+     color: red;
+ }
